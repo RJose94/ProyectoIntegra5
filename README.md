@@ -1,2 +1,2 @@
 # ProyectoIntegra5
-# Immplementar el uso de POO
+# Implementar el uso de POO
